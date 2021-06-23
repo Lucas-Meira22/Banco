@@ -1,0 +1,20 @@
+[
+    {
+        "name": "lucas",
+        "lastname" : "Meira",
+        "Cpf": 12341234,
+        "rg" :23542345,
+        "senha" : "cavalo2203",
+        "dataNascimento" :"22/03/30"
+    },
+    {
+        "name": "matias",
+        "lastname" : "Pereira",
+        "Cpf": 212341234,
+        "rg" :323542345,
+        "senha" : "cavalao2203",
+        "dataNascimento" :"23/23/30"
+    }
+
+
+]
